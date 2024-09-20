@@ -7,7 +7,7 @@ Takiban draws from the traditions of Japanese craftsmanship. Much like the caref
 ---------------------
 
 ### **Flow**
-Progress emerges naturally out of focus and intent.
+Progress emerges naturally from focus and intent.
 
 ### **Adaptable Structure**
 Harmony between thoughtful planning and flexible action.
