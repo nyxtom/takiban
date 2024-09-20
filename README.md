@@ -19,7 +19,7 @@ Each action holds meaning, aligned with greater purpose.
 ### **Respect for Resources**
 Mindful and intentional use of time, materials, and effort.
 
-### **Simplicity***
+### **Simplicity**
 Focus on the essentials. Clarity comes from reduced complexity
 
 ### **Collaborative Growth**
