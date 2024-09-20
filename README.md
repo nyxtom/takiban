@@ -19,7 +19,7 @@ Steady deliberate progress by respecting time, energy and well-being.
 Each action holds meaning, aligned with greater purpose.
 
 ### **Respect for Resources**
-Mindful and intentional use of time, materials, and effort.
+Mindful and intentional use of resources, tools, time, materials, and effort.
 
 ### **Simplicity**
 Focus on the essentials. Clarity comes from reduced complexity.
