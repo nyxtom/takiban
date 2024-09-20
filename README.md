@@ -12,7 +12,7 @@ Progress emerges naturally from focus and intent.
 ### **Adaptable Structure**
 Harmony between thoughtful planning and flexible action.
 
-### **Sustainability**
+### **Pace**
 Steady deliberate progress by respecting time, energy and well-being.
 
 ### **Purposeful Craft**
