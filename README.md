@@ -5,7 +5,7 @@
 Takiban draws from the traditions of Japanese craftsmanship. Much like the careful tending of a bonsai tree or the precision of a master sword maker, this framework values **purposeful refinement**. **Ikigai** embodies fulfilling work, **Kaizen** promotes continuous, deliberate improvement, and **Mottainai** encourages respect for resources. These values reflect the artistry and discipline found in Japanese tea gardens and woodworking—creating something beautiful and enduring through **patience**, **skill**, and **intention**.
 
 ### **Flow**
-Progress emerges naturally out of focused attention.
+Progress emerges naturally out of focused intent.
 
 ### **Adaptable Structure**
 Harmony between thoughtful planning and flexible action.
