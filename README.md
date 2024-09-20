@@ -1,5 +1,3 @@
-# takiban
-
 # The Takiban Manifesto
 
 > Based on the principles of **Ikigai**, **Kaizen**, and **Mottainai**
