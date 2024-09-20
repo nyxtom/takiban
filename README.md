@@ -2,7 +2,7 @@
 
 > Based on the principles of **Ikigai**, **Kaizen**, **Mottainai**, and **Kanso**
 
-Takiban draws from the traditions of Japanese craftsmanship. Much like the careful tending of a bonsai tree or the precision of a master sword maker, this framework values **purposeful refinement**. **Ikigai** embodies fulfilling work, **Kaizen** promotes continuous, deliberate improvement, **Mottainai** encourages respect for resources, and **Kanso** embraces simplicity. These values reflect the artistry and discipline found in Japanese tea gardens, or in traditional craftsmenship—creating something beautiful and enduring through **patience**, **skill**, and **intention**.
+Takiban draws from the traditions of Japanese craftsmanship. Much like the careful tending of a bonsai tree or the precision of a master sword maker, this framework values **purposeful refinement**. **Ikigai** embodies fulfilling work, **Kaizen** promotes continuous, deliberate improvement, **Wa** represents harmony, **Mottainai** encourages respect for resources, and **Kanso** embraces simplicity. These values reflect the artistry and discipline found in Japanese tea gardens, or in traditional craftsmenship—creating something beautiful and enduring through **patience**, **skill**, and **intention**.
 
 ---------------------
 
@@ -25,7 +25,7 @@ Mindful and intentional use of time, materials, and effort.
 Focus on the essentials. Clarity comes from reduced complexity
 
 ### **Collaborative Growth**
-Continuous learning and shared improvement through open collaboration.
+Continuous improvement thrives on a commitment to teamwork
 
 ---------------------
 
